@@ -11,3 +11,4 @@ cr.execute("""
            genre TEXT)
            """)
 #table should be created with those attributes/column names
+#movies is the table name
